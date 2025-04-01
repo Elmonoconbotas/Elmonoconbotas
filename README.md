@@ -1,6 +1,6 @@
-<h1 align="center">Hi , I'm Diego Cano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&duration=3500&pause=300&color=6A0572&size=24&center=true&vCenter=true&width=600&height=100&lines=Diego+Cano+🚀;Desarrollo+de+Aplicaciones+Multiplataforma💻;"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&duration=3500&pause=300&color=6A0572&size=32&center=true&vCenter=true&width=800&height=100&lines=Diego+Cano+🚀;Desarrollo+de+Aplicaciones+Multiplataforma💻;"></a>
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Soy Diego, un pequeño programador que está terminando sus estudios. Tengo muchas ganas de demostrar lo que se y aprender cada día más, sobre todo en el campo de la Ciberseguridad.<br><br>- 🔭 Actualmente estoy de prácticas en I3Code<br>- 📚 Terminandos mis estudios de Desarrollo de Aplicaciones Multiplataforma<br>- ⚡ Me gustan mucho los videojuegos, crear proyectos independientes y apender sobre muchos campos</p>
 
 ###
 
@@ -36,11 +36,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
