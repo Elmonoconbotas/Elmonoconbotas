@@ -15,15 +15,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Sobre Mi</h3>
 
 ###
 
-<p align="left">Soy Diego, un pequeño programador que está terminando sus estudios. Tengo muchas ganas de demostrar lo que se y aprender cada día más, sobre todo en el campo de la Ciberseguridad.<br><br>- 🔭 Actualmente estoy de prácticas en I3Code<br>- 📚 Terminandos mis estudios de Desarrollo de Aplicaciones Multiplataforma<br>- ⚡ Me gustan mucho los videojuegos, crear proyectos independientes y apender sobre muchos campos</p>
+<p align="left">🚀 Soy Diego, un pequeño programador que está terminando sus estudios. Tengo muchas ganas de demostrar lo que se y aprender cada día más.<br><br>🏗️ Me gusta crear pequeños proyectos independientes y colaborativos<br><br>📚 Actualemente estoy terminando mis estudios de Desarrollo de Aplicaciones Multiplataforma<br><br>⚡ Me gustan mucho los videojuegos y el deporte</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Lenguajes y Tecnologías</h3>
 
 ###
 
@@ -67,11 +67,11 @@
 
 ###
 
-<h3 align="left">📱   Social Media :</h3>
+<h3 align="left">📱   Contacta Conmigo:</h3>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/diego-cano-rodriguez-71a538339"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="mailto:elmonoconbotasdev@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
 </div>
