@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">🚀 Soy Diego, un pequeño programador que está terminando sus estudios. Tengo muchas ganas de demostrar lo que se y aprender cada día más.<br><br>🏗️ Me gusta crear pequeños proyectos independientes y colaborativos<br><br>📚 Actualemente estoy terminando mis estudios de Desarrollo de Aplicaciones Multiplataforma<br><br>⚡ Me gustan mucho los videojuegos y el deporte</p>
+<p align="left">🚀 Soy Diego, un pequeño programador que está terminando sus estudios. Tengo muchas ganas de demostrar lo que se y aprender cada día más.<br><br>🏗️ Me gusta crear pequeños proyectos y colaborativos<br><br>📚 Actualemente estoy terminando mis estudios de Desarrollo de Aplicaciones Multiplataforma<br><br>⚡ Me gustan mucho los videojuegos y el deporte</p>
 
 ###
 
